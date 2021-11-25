@@ -1,0 +1,272 @@
+[
+  {
+    "first_name": "Patrica",
+    "last_name": "Browning",
+    "city": "Lowell",
+    "state": "American Samoa",
+    "address": "Box Street",
+    "grade": 5,
+    "grades": [
+      66,
+      70,
+      86,
+      78,
+      85,
+      88,
+      72,
+      51
+    ]
+  },
+  {
+    "first_name": "Lelia",
+    "last_name": "Anthony",
+    "city": "Abrams",
+    "state": "Florida",
+    "address": "Amersfort Place",
+    "grade": 7,
+    "grades": [
+      60,
+      96,
+      66,
+      72,
+      76,
+      72,
+      63,
+      53
+    ]
+  },
+  {
+    "first_name": "Tate",
+    "last_name": "Potts",
+    "city": "Elliston",
+    "state": "Georgia",
+    "address": "Montgomery Street",
+    "grade": 4,
+    "grades": [
+      71,
+      70,
+      57,
+      74,
+      58,
+      58,
+      59,
+      57
+    ]
+  },
+  {
+    "first_name": "Sophia",
+    "last_name": "Cervantes",
+    "city": "Longoria",
+    "state": "Federated States Of Micronesia",
+    "address": "Fulton Street",
+    "grade": 7,
+    "grades": [
+      80,
+      82,
+      83,
+      64,
+      88,
+      56,
+      79,
+      88
+    ]
+  },
+  {
+    "first_name": "Katherine",
+    "last_name": "Mcconnell",
+    "city": "Epworth",
+    "state": "North Dakota",
+    "address": "Adelphi Street",
+    "grade": 8,
+    "grades": [
+      68,
+      88,
+      56,
+      67,
+      97,
+      94,
+      87,
+      98
+    ]
+  },
+  {
+    "first_name": "Fran",
+    "last_name": "Drake",
+    "city": "Hayes",
+    "state": "Mississippi",
+    "address": "Regent Place",
+    "grade": 12,
+    "grades": [
+      89,
+      68,
+      50,
+      85,
+      93,
+      66,
+      59,
+      56
+    ]
+  },
+  {
+    "first_name": "Austin",
+    "last_name": "Jennings",
+    "city": "Chesterfield",
+    "state": "New Mexico",
+    "address": "Rockaway Parkway",
+    "grade": 11,
+    "grades": [
+      81,
+      58,
+      83,
+      68,
+      99,
+      93,
+      56,
+      87
+    ]
+  },
+  {
+    "first_name": "Summers",
+    "last_name": "Orr",
+    "city": "Carrizo",
+    "state": "Louisiana",
+    "address": "Canda Avenue",
+    "grade": 5,
+    "grades": [
+      66,
+      85,
+      71,
+      72,
+      66,
+      73,
+      84,
+      95
+    ]
+  },
+  {
+    "first_name": "Ada",
+    "last_name": "Irwin",
+    "city": "Guilford",
+    "state": "Palau",
+    "address": "Boardwalk ",
+    "grade": 4,
+    "grades": [
+      97,
+      51,
+      76,
+      97,
+      55,
+      89,
+      74,
+      93
+    ]
+  },
+  {
+    "first_name": "Haley",
+    "last_name": "Carroll",
+    "city": "Como",
+    "state": "Iowa",
+    "address": "Beekman Place",
+    "grade": 12,
+    "grades": [
+      56,
+      88,
+      79,
+      93,
+      98,
+      55,
+      99,
+      86
+    ]
+  },
+  {
+    "first_name": "Whitney",
+    "last_name": "Horton",
+    "city": "Emory",
+    "state": "Minnesota",
+    "address": "Maple Avenue",
+    "grade": 9,
+    "grades": [
+      81,
+      99,
+      50,
+      83,
+      72,
+      63,
+      69,
+      79
+    ]
+  },
+  {
+    "first_name": "Barron",
+    "last_name": "Barber",
+    "city": "Orviston",
+    "state": "Massachusetts",
+    "address": "Clermont Avenue",
+    "grade": 6,
+    "grades": [
+      67,
+      52,
+      98,
+      55,
+      68,
+      64,
+      90,
+      57
+    ]
+  },
+  {
+    "first_name": "Eliza",
+    "last_name": "Nelson",
+    "city": "Allamuchy",
+    "state": "Arizona",
+    "address": "Norwood Avenue",
+    "grade": 9,
+    "grades": [
+      81,
+      51,
+      81,
+      100,
+      64,
+      55,
+      57,
+      58
+    ]
+  },
+  {
+    "first_name": "Rosario",
+    "last_name": "Mcdonald",
+    "city": "Efland",
+    "state": "Arkansas",
+    "address": "Coleridge Street",
+    "grade": 11,
+    "grades": [
+      76,
+      99,
+      75,
+      98,
+      59,
+      51,
+      90,
+      66
+    ]
+  },
+  {
+    "first_name": "Tanner",
+    "last_name": "Burt",
+    "city": "Imperial",
+    "state": "New Hampshire",
+    "address": "Corbin Place",
+    "grade": 6,
+    "grades": [
+      68,
+      66,
+      90,
+      63,
+      58,
+      100,
+      63,
+      72
+    ]
+  }
+]
